@@ -2,7 +2,7 @@ fun main() {
     val testInput = readInput("input_test")
     val input = readInput("input")
 
-    val solution = Day01()
+    val solution = Template()
 
     println(solution.part1(testInput))
 
@@ -14,7 +14,7 @@ fun main() {
 
 }
 
-class Day01 {
+class Template {
     fun part1(input: List<String>): Int {
         return 0
     }
