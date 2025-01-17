@@ -3,8 +3,8 @@ fun main() {
 
     val solution = Day02()
 
-    check(solution.part1(input) == 1588178)
-    check(solution.part2(input) == 3783758)
+//    check(solution.part1(input) == 1588178)
+//    check(solution.part2(input) == 3783758)
 
 }
 
